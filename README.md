@@ -2,7 +2,7 @@
 My first repository
 
 # Alice in borderland
-![Alice in borderland]https://techwiser.com/wp-content/uploads/2025/09/Alice-in-Borderland-Season-3-2-1.webp
+![Alice in borderland](https://techwiser.com/wp-content/uploads/2025/09/Alice-in-Borderland-Season-3-2-1.webp)
 
 ## **Alice in borderland** is a japanese sci-fi thriller series based on the manga by *Haro aso*. It follows by **Arisu**, a gamer who suddenly finds himself trapped in a world or dimension where he must compete in deadly games to survive and return to the real world.
 
